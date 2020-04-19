@@ -104,7 +104,7 @@ section {
 .cover {
   width: 100%;
   height: 55vmin;
-  background: url("../assets/tcemdu.jpg");
+  background: url("tcemdu.jpg");
   background-position: -24rem -19 rem;
   background-size: 100%;
   position: relative;
